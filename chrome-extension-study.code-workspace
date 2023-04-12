@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "path": "development-basics"
+    },
+    {
+      "path": "reading-time"
+    }
+  ],
+  "settings": {
+    "json.schemas": [
+      {
+        "fileMatch": ["/manifest.json"],
+        "url": "https://json.schemastore.org/chrome-manifest.json"
+      }
+    ]
+  }
+}
